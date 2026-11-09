@@ -1,0 +1,10 @@
+{
+  "item.worldeditmod.wand": "Selection Wand",
+  "worldeditmod.selection.pos1": "Pos1 set to %s",
+  "worldeditmod.selection.pos2": "Pos2 set to %s",
+  "worldeditmod.selection.complete": "Region selected",
+  "worldeditmod.selection.invalid": "Select a region first",
+  "worldeditmod.region.filled": "Filled region with %s",
+  "worldeditmod.region.replaced": "Replaced blocks from %s to %s",
+  "worldeditmod.region.undo": "Undid last region operation"
+}
